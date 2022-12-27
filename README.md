@@ -1,6 +1,6 @@
 ### 👋 Hey, I am Akash!
 ## 
-- 💻 Full Stack Web Developer
+- 💻 Full Stack Developer
 - ☁️ Cloud Enthusiast
 - 🧹 Clean Code Practitioner
 - 🧪 TDD Believer
