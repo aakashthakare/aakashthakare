@@ -1,4 +1,4 @@
-### 👋 Hey, I am Akash!
+### 👋 Hey, I am [Akash](https://aakashthakare.github.io/)!
 ## 
 - 💻 Full Stack Developer
 - ☁️ Cloud Enthusiast
